@@ -29,7 +29,7 @@ navbar-links:
   Resources:
     - Grad School app.: "GradSchool"
     - GRFP app.: "GRFP"
-    - UO graduate school resources
+    - UO graduate school resources: "PublicResources"
   Sci Com:
     - Octo Beer: "OctoBeer"
     - Picture book: "PictureBook"
