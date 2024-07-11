@@ -87,4 +87,4 @@ groups conveniently located on campus or via zoom. They offer mediated conflict 
 facilitations and provide a private and impartial service for all UO students.  
 
 
-### All of this information is located in this [Public Resources] (https://uoregon-my.sharepoint.com/:w:/g/personal/vallen_uoregon_edu/ESajNr5P8thOuSZQS5h21nkBPN6gnxtSHR_kNnN4GccASg?e=ArPTSm) onedrive document that I made. Anyone should be able to access and review this document, so if there is anything that needs to be updated or added to this document feel free to do so!
+### All of this information is located in this [Public Resources](https://uoregon-my.sharepoint.com/:w:/g/personal/vallen_uoregon_edu/ESajNr5P8thOuSZQS5h21nkBPN6gnxtSHR_kNnN4GccASg?e=ArPTSm) onedrive document that I made. Anyone should be able to access and review this document, so if there is anything that needs to be updated or added to this document feel free to do so!
