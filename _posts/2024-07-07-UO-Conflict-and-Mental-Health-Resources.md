@@ -64,7 +64,7 @@ There are also many well-being resources for graduate students in the STEM depar
 
 
 
-##Mechanisms to help resolve conflict between you and your adviser 
+## Mechanisms to help resolve conflict between you and your adviser 
 
 If conflict arises students should talk to their advisor and ask to revisit the goals that are set in their individual 
 training plan (this requires that there is a training plan in place, which is highly recommended when you first join a lab). 
@@ -85,3 +85,6 @@ they can email or call DuckREFS to schedule an appointment to discuss the confli
 Another easily accessible resource is the Student Conflict Resolution Center, which has appointments for individuals or 
 groups conveniently located on campus or via zoom. They offer mediated conflict coaching and group 
 facilitations and provide a private and impartial service for all UO students.  
+
+
+### All of this information is located in this [Public Resources] (https://uoregon-my.sharepoint.com/:w:/g/personal/vallen_uoregon_edu/ESajNr5P8thOuSZQS5h21nkBPN6gnxtSHR_kNnN4GccASg?e=ArPTSm) onedrive document that I made. Anyone should be able to access and review this document, so if there is anything that needs to be updated or added to this document feel free to do so!
