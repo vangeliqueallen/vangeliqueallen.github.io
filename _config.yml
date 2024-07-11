@@ -24,7 +24,7 @@ navbar-links:
   Research:
     - Undergraduate: "UndergraduateResearch"
     - Graduate: "GraduateResearch"
-  CV : "CV0724"
+  [CV](https://github.com/vangeliqueallen/vangeliqueallen.github.io/blob/master/CV0724.pdf)
   Publications: "Publications"
   Resources:
     - Grad School app.: "GradSchool"
