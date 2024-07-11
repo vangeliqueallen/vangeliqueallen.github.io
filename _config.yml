@@ -21,8 +21,8 @@ author: Angelique Allen
 
 navbar-links:
   About Me: "aboutme"
-  Research: "research"
-  [CV](https://github.com/vangeliqueallen/vangeliqueallen.github.io/blob/master/CV0724.pdf)
+  Research: "Research"
+  CV: "https://github.com/vangeliqueallen/vangeliqueallen.github.io/blob/master/CV0724.pdf"
   Resources:
     - Grad School app.: "GradSchool"
     - GRFP app.: "GRFP"
