@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle:
+thumbnail-img: OICHeadshot.jpg
 ---
 
 I am a graduate school candidate with a passion for cephalopod neurobiology and a broad interest in neural systems and behavior. I am currently studying how octopuses 'think about what they see', or in other words their visual processing. I am particularly interested in how they process a characteristic of light that we can't even see - polarization! Which simply put, is the angle at which a light wave travels. Octopuses are able to see this, and there is proof that other cephalopods are able to create and change the polarization of their skin. To study how octopuses process this information, I am using a big fancy (2-photon for those who are interested) laser to record neural activity (using injectable calcium dyes, again for those who care). 
