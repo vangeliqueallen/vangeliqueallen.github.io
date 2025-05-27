@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grad. School Research
-subtitle: funded by the NSF GRFP and HHMI Gilliam fellowship
+subtitle: Funded by the NSF GRFP and HHMI Gilliam fellowship
 ---
 ![Angelique at the microscope](MicroscopeHeadshot.JPG){: width="500" }{:style="display:block; margin-left:auto; margin-right:auto"}
 ### How Octopuses See Black, White, and an Aspect of Light We Can't See- Polarization
