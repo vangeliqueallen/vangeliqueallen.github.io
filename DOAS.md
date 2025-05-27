@@ -10,4 +10,4 @@ Dreams of a Scientist: Lessons from the Sea is a children’s picture book that 
 
 2. Break stereotypes by introducing readers to real-life marine scientists from different backgrounds and in different career stages
 
-I am currently in the process of self-publishing this book, and it will be available this summer! You can preorder it and learn more at [www.dreamsofascientist.com]
+I am currently in the process of self-publishing this book, and it will be available this summer! You can preorder it and learn more at [our website.](www.dreamsofascientist.com)
