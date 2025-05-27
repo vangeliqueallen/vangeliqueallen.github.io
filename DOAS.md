@@ -4,7 +4,7 @@ title: Dreams of a Scientist: Lessons from the Sea
 subtitle: A children's book written by scientist for future scientists
 ---
 
-![DOAS logo] (DoaS - RGB_Full Color Logo.png)
+![DOAS logo](DoaS - RGB_Full Color Logo.png){: width="500" }{:style="display:block; margin-left:auto; margin-right:auto"}
 
 Dreams of a Scientist: Lessons from the Sea is a children’s picture book that that will take readers on an oceanic adventure full of scientific discovery. This book will:
 
